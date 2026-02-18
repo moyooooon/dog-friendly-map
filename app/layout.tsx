@@ -38,6 +38,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: siteUrl,
   },
+  verification: {
+    google: "9DaAlRaYjvs8-vYDr-sflzOGuewMgFD5Mmdt6OKCxQY",
+  },
 };
 
 const jsonLd = {
